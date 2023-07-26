@@ -1,0 +1,116 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Flowchart.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Flowchart V.2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "URL&Flowchart_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Data Data Scraping.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "com1&Sequence_137",
+        "B3&Sequence_136",
+        "B2&Sequence_136",
+        "B1&Sequence_133",
+        "IsExists&Sequence_118",
+        "Rpdf&Sequence_118",
+        "pwd&Sequence_118",
+        "user&Sequence_118",
+        "password&Sequence_118",
+        "password&Sequence_115",
+        "user&Sequence_115",
+        "pwd&Sequence_115",
+        "Rpdf&Sequence_115",
+        "Rpdf&Sequence_114",
+        "ExtractDataTable&Sequence_1",
+        "ExtractDataTable&Sequence_2",
+        "ExtractDataTable&Sequence_6",
+        "P&Sequence_8",
+        "password&Sequence_100",
+        "username&Sequence_100",
+        "dt1&Sequence_105",
+        "ExtractDataTable&Sequence_108",
+        "Rpdf&Sequence_113"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Exercise-5.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Choose&Sequence_1",
+        "username&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Exercise-6.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "username&Sequence_1",
+        "password&Sequence_6",
+        "num&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Exercise-7.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "D&Sequence_1",
+        "C&Sequence_1",
+        "B&Sequence_1",
+        "A&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Exercise-8.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "StrA&Flowchart_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
